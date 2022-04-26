@@ -30,13 +30,13 @@ vuepress-demo
 |  |     |     └slider.vue
 ```
 
-###运行
+### 运行
 <code>npm run docs:dev</code>
 
 清除缓存并运行
 <code>npm run docs:dev-cc</code>
 
 
-###打包
+### 打包
 <code>npm run docs:build</code>
 
